@@ -1,8 +1,6 @@
-django==4.2.5
 asgiref==3.7.2
-
+django==4.2.5
 psycopg-binary==3.1.11
-
 sqlparse==0.4.4
 typing_extensions==4.8.0
 tzdata==2023.3
